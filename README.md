@@ -10,7 +10,7 @@
 [![GitHub vincentgrande](https://img.shields.io/github/followers/vincentgrande?label=follow&style=social)](https://github.com/vincentgrande)
 
 </br></br></br></br>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```javascript
 const vincent = {
@@ -19,7 +19,6 @@ const vincent = {
   framework : ["Laravel", "ASP.NET MVC", "Bootstrap"],
   years_of_experience : 3,
   degrees: ["BTS SIO SLAM", "LP CDA (in progress)"]
-
 }
 ```
 
