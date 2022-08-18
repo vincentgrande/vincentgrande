@@ -20,7 +20,6 @@ const vincent = {
   framework : ["Laravel", "ASP.NET MVC", "Bootstrap"],
   years_of_experience : 3,
   degrees: ["BTS SIO SLAM", "LP CDA (in progress)"]
-
 }
 ```
 
