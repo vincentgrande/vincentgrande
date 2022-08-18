@@ -14,7 +14,6 @@
 
 ```javascript
 const vincent = {
-  pronouns: "he" | "him",
   code: [ "HTML", "CSS", "Javascript", "PHP", "C#", "Python", "SQL", "Shell", "Kotlin"],
   framework : ["Laravel", "ASP.NET MVC", "Bootstrap"],
   years_of_experience : 3,
