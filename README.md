@@ -19,7 +19,7 @@ const vincent = {
   code: [ "HTML", "CSS", "Javascript", "PHP", "C#", "Python", "SQL", "Shell", "Kotlin"],
   framework : ["Laravel", "ASP.NET MVC", "Bootstrap"],
   years_of_experience : 3,
-  degrees: ["BTS SIO SLAM", "LP CDA (in progress)"]
+  degrees: ["BTS SIO SLAM", "LP CDA","Master M2I"]
 }
 ```
 
