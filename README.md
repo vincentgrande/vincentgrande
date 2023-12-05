@@ -18,7 +18,7 @@ const vincent = {
   pronouns: "he" | "him",
   code: [ "HTML", "CSS", "Javascript", "PHP", "C#", "Python", "SQL", "Shell", "Kotlin"],
   framework : ["Laravel", "ASP.NET MVC", "Bootstrap", "Angular"],
-  years_of_experience : 3,
+  years_of_experience : 5,
   degrees: ["BTS SIO SLAM", "LP CDA","Master M2I"]
 }
 ```
